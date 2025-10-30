@@ -13,21 +13,12 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
----
 
-### 🔥 Моя активность
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nikkes174&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak"/>
 </p>
 
----
-
-### 🐍 Моя GitHub-активность
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nikkes174/snk/output/snake.svg" alt="Snake animation"/>
-</p>
-
----
 
 
 
