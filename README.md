@@ -10,10 +10,6 @@
 <a href="https://t.me/davsetakie">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="120" />
-</p>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nikkes174/snk/output/snake.svg" alt="Snake animation"/>
