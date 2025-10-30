@@ -1,6 +1,9 @@
 <h1 align="center">Привет, я Михаил 👨‍💻</h1>
 <h3 align="center">Бэкенд-разработчик, превращаю идеи в работающие сервисы</h3>
 
+
+![Streak](https://streak-stats.demolab.com?user=nikkes174&theme=dracula&hide_border=true&border_radius=5)
+
 <!--
 **nikkes174/nikkes174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
