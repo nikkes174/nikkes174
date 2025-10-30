@@ -14,3 +14,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/nikkes174/snk/output/snake.svg" alt="Snake animation"/>
 </p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/pride174?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</p>
