@@ -1,6 +1,3 @@
-![Python Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-
 <h2>Привет, я Михаил 👋! Бэкенд-разработчик, превращаю идеи в работающий код ⚙️</h2>
 
 
@@ -13,7 +10,9 @@
 <a href="https://t.me/davsetakie">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="120" />
+</p>
 
 
 <p align="center">
