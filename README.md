@@ -1,5 +1,5 @@
-<h1 align="center">👋 Привет, я Михаил</h1>
-<h3 align="center">Бэкенд-разработчик, превращаю идеи в работающий код ⚙️</h3>
+<h1 align="center">Привет, я Михаил 👋! Бэкенд-разработчик, превращаю идеи в работающий код ⚙️</h1>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikkes174&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
