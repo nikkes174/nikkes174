@@ -1,4 +1,5 @@
-<h1 align="center">Привет 👋, я Никита</h1>
+<h1 align="center">Привет, я Михаил 👨‍💻</h1>
+<h3 align="center">Бэкенд-разработчик, превращаю идеи в работающие сервисы</h3>
 
 <!--
 **nikkes174/nikkes174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
